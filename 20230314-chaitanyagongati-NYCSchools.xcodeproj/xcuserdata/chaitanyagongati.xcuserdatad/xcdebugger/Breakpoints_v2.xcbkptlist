@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7AA97CF-E68C-4E5A-B610-57568DB71CD9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF6315C0-731D-47AA-8309-126E9EA5715E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/Services/SATResultsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "resultsOfSchool(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39ADE707-32DA-4C28-BF74-DE65746A2851"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/Services/SATResultsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "resultsOfSchool(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D47FEC68-4EA6-4AAB-A5EE-4924BD37B533"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/Services/SATResultsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "resultsOfSchool(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F9DC3EC-8821-49DA-8D39-B77A1BA50C7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/Services/SchoolsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "schoolsInNyc(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FE6C7B8-C875-4910-B473-BAACB798D332"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/View/NYCSchoolsTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "configure(withSchool:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1FE6C7B8-C875-4910-B473-BAACB798D332 - 33424183f2215762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.NYCSchoolsTableViewCell.configure(withSchool: _0230314_chaitanyagongati_NYCSchools.School) -&gt; ()"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/2022-abhinavjayanthy-nycschools-main/nycsschools/View/NYCSchoolsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1FE6C7B8-C875-4910-B473-BAACB798D332 - 33424183f2215762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.NYCSchoolsTableViewCell.configure(withSchool: _0230314_chaitanyagongati_NYCSchools.School) -&gt; ()"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/2022-abhinavjayanthy-nycschools-main/nycsschools/View/NYCSchoolsTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC14E670-E6DD-467A-8559-7986DFCA4080"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/View/NYCSchoolsResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "097DF04A-AA8E-45AA-B864-DD3B1A41E850"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/ViewModel/NYCSchoolsResultsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "getCurrentSchoolResults(withSchoolName:withSchoolID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCF2E189-CFC7-4BDF-9571-1F319E334607"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/ViewModel/NYCSchoolsResultsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "getCurrentSchoolResults(withSchoolName:withSchoolID:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCF2E189-CFC7-4BDF-9571-1F319E334607 - 6aa671af7b474bcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.NYCSchoolsResultsViewModel.getCurrentSchoolResults(withSchoolName: Swift.Optional&lt;Swift.String&gt;, withSchoolID: Swift.String) -&gt; ()"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/20230314-chaitanyagongati-NYCSchools-Project-main/nycsschools/ViewModel/NYCSchoolsResultsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "BCF2E189-CFC7-4BDF-9571-1F319E334607 - ce58ba646f42cdd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (_0230314_chaitanyagongati_NYCSchools.NYCSchoolsSATResult) -&gt; Swift.Bool in _0230314_chaitanyagongati_NYCSchools.NYCSchoolsResultsViewModel.getCurrentSchoolResults(withSchoolName: Swift.Optional&lt;Swift.String&gt;, withSchoolID: Swift.String) -&gt; ()"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/20230314-chaitanyagongati-NYCSchools-Project-main/nycsschools/ViewModel/NYCSchoolsResultsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0052086-1E8E-4EA6-846B-8B910E0C8C9E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/View/NYCSchoolsResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C423717-C2AB-48D5-A6A9-2D78B097A775"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/Services/NYCSchoolsService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "schoolsInNyc(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7056E91C-E932-4E50-9ADF-198494E6385B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/View/NYCSchoolsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B81E6E7D-EC1B-400E-9966-C81B3E7EACC0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/Utils/Box.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "value"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B81E6E7D-EC1B-400E-9966-C81B3E7EACC0 - ce8fba91e4225c36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.Box.value.getter : &#x3c4;_0_0"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/20230314-chaitanyagongati-NYCSchools-Project-main/nycsschools/Utils/Box.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "B81E6E7D-EC1B-400E-9966-C81B3E7EACC0 - 379ff580d05aa022"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.Box.value.setter : &#x3c4;_0_0"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/20230314-chaitanyagongati-NYCSchools-Project-main/nycsschools/Utils/Box.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "B81E6E7D-EC1B-400E-9966-C81B3E7EACC0 - f61b2c9434137533"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.Box.value.modify : &#x3c4;_0_0"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/20230314-chaitanyagongati-NYCSchools-Project-main/nycsschools/Utils/Box.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B81E6E7D-EC1B-400E-9966-C81B3E7EACC0 - 3e10b1d840955122"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230314_chaitanyagongati_NYCSchools.Box.value.modify : &#x3c4;_0_0 with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "20230314-chaitanyagongati-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chaitanyagongati/Downloads/20230314-chaitanyagongati-NYCSchools-Project-main/nycsschools/Utils/Box.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "162653C6-D328-4050-B25C-CAE2F23B1D42"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/View/NYCSchoolsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D927CF5A-0FD8-42FE-AB5E-A2B7C21D3F27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nycsschools/View/NYCSchoolsListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
